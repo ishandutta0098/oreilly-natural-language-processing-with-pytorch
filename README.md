@@ -15,4 +15,6 @@ Code Implementation for the book - Natural Language Processing with PyTorch by D
   
 [6] Sequence Modeling for Natural Language Processing
   
-[7] Intermediate 
+[7] Intermediate Sequence Modeling for Natural Language Processing
+
+[8] Advanced Sequence Modeling for Natural Language Processing
