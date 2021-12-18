@@ -3,5 +3,7 @@ Code Implementation for the book - Natural Language Processing with PyTorch by D
 
 # Contents:
 
-[01. Introduction]()
-[]
+01. [Introduction]()
+02. A Quick Tour of Traditional NLP
+03. Foundational Components of Neural Networks
+04. 
